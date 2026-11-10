@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "oboelib": {
+      "type": "streamable-http",
+      "url": "https://oboelib.com/api/mcp"
+    }
+  }
+}

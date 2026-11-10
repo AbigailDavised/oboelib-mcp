@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.oboelib/mcp",
+  "title": "OboeLib — Conservatory Oboe Fingering, Half-Hole, Forked F & Trill Chart Engine",
+  "description": "Look up Conservatory oboe fingerings, half-hole, left/forked F rules, octave keys & trills.",
+  "version": "1.0.1",
+  "websiteUrl": "https://oboelib.com",
+  "repository": {
+    "url": "https://github.com/AbigailDavised/oboelib-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://oboelib.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://oboelib.com/api/mcp"
+    }
+  ]
+}
