@@ -1,4 +1,6 @@
-# OboeLib — Conservatory Oboe Fingering, Half-Hole, Forked F & Trill Chart Engine
+
+
+[![mcptry](https://mcptry.com/badge/com.oboelib/mcp)](https://mcptry.com/servers/com.oboelib/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-oboelib.com-blue)](https://oboelib.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.oboelib%2Fmcp-green)](https://www.mcptry.com/servers/com.oboelib/mcp)
