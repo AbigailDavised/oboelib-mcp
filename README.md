@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.oboelib/mcp)](https://mcptry.com/servers/com.oboelib/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/oboelib-conservatory-oboe-fingering-half-hole-mcp/card.svg)](https://mcprush.com/to/oboelib-conservatory-oboe-fingering-half-hole-mcp?ref=badge)
 
 [![Official Website](https://img.shields.io/badge/Website-oboelib.com-blue)](https://oboelib.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.oboelib%2Fmcp-green)](https://www.mcptry.com/servers/com.oboelib/mcp)
