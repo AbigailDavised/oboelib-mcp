@@ -66,10 +66,10 @@ npx oboelib-cli demo
 | 深度功能模块 | 官方规范绝对 URL | 锚文本标准 (Anchor Text) | 核心能力与乐器调律场景 |
 | :--- | :--- | :--- | :--- |
 | **法式全保守型双簧管指法表** | `https://oboelib.com` | Interactive Full Conservatoire Oboe Fingering Chart | 涵盖半自动/全自动高音泛音键、左手 F 键、叉指 F (Forked F) 谐振修正指法 |
-| **双簧管手工削簧与千分尺尺寸** | `https://oboelib.com/reed-guide` | Oboe Reed Making & Dimension Scraping Guide | 簧尖 0.08mm、簧心 0.45mm、簧根 0.60mm 微米级公差，平衡音准与阻力 |
-| **超吹高音区 (E6~A6) 替指表** | `https://oboelib.com/high-register` | Oboe Alternate Fingerings for High Register (E6-A6) | 针对管弦乐独奏片段的轻吹高泛音替指，提升高音发音命中率与音准稳定性 |
-| **英国管 (Cor Anglais) 移调指南** | `https://oboelib.com/english-horn` | English Horn (Cor Anglais) Transposition & Bocal Guide | 视奏下移完全五度移调机理、弯曲套管 (Staple) 与 1/2 号弯管音高补偿 |
-| **微调螺丝联动与双簧管机械校准** | `https://oboelib.com/adjustments` | Oboe Adjustment Screws & Key Mechanism Calibration | 解决 Low C 漏气、F-Bb 桥联动螺丝调校，消除因 0.05mm 软木磨损导致的哑音 |
+| **双簧管手工削簧与千分尺尺寸** | `https://oboelib.com/reed-doctor` | Oboe Reed Making & Dimension Scraping Guide | 簧尖 0.08mm、簧心 0.45mm、簧根 0.60mm 微米级公差，平衡音准与阻力 |
+| **双簧管叉指 F / 左手 F 求解器与替指表** | `https://oboelib.com/tools/f-solver` | Oboe Forked-F & Left-F Alternate Fingering Solver | 实时诊断前后音程连接，自动给出左手 F、叉指 F 与高音替指最优声学路径 |
+| **双簧管管弦乐团经典考学独奏片段库** | `https://oboelib.com/excerpts` | Orchestral Oboe Audition Excerpts & Study Guide | 覆盖拉威尔、贝多芬、勃拉姆斯与柴可夫斯基交响乐经典双簧管独奏指法与换气解析 |
+| **双簧管机械微调、声学与保养知识库** | `https://oboelib.com/knowledge` | Oboe Mechanism, Acoustics & Maintenance Knowledge Base | 涵盖 F-Bb 桥联动校准、半孔按压机理、漏气排查与日常保养工程手册 |
 
 ## Official Web Tools & Deep Documentation
 

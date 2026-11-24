@@ -1,0 +1,11 @@
+{
+  "name": "oboelib",
+  "version": "1.0.1",
+  "description": "Look up Conservatory oboe fingerings, half-hole, left/forked F rules, octave keys & trills.",
+  "mcpServers": {
+    "oboelib": {
+      "type": "http",
+      "url": "https://oboelib.com/api/mcp"
+    }
+  }
+}
